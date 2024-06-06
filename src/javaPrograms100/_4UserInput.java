@@ -21,7 +21,7 @@ public class _4UserInput {
 		
 		System.out.println("Eneter a float");
 		f=input.nextFloat();
-		System.out.println("Enetred float "+ f);
+		System.out.println("Entered float "+ f);
 		
 
 	}
